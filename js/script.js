@@ -43,4 +43,5 @@ previous.addEventListener("click", () => {
     proximaPagina(); 
   }
 });
+proximaPagina();
 
